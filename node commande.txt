@@ -1,0 +1,11 @@
+**client: 
+npm install --global yarn
+yarn --version
+yarn create next-app .
+npm install -D tailwindcss postcss autoprefixer
+yarn dev
+**server:
+npm init -yes
+npm install express dotenv mongoose joi morgan cors cookie-parser body-parser multer fluent-ffmpeg
+npm i jsonwebtoken bcryptjs
+nodemon

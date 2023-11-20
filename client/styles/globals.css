@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.videoProfile{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+.profileLogo{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    border-radius: 35px;
+}
